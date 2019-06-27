@@ -1,0 +1,88 @@
+%%-*-latex-*-
+
+% Düdjom Tersar Ngöndro
+%
+\documentclass[14pt]{extbook}
+
+% Geometry
+%
+\setlength{\evensidemargin}{-50pt}
+\setlength{\oddsidemargin}{-50pt}
+\setlength{\topmargin}{-40pt}
+\setlength{\textheight}{700pt}
+\setlength{\textwidth}{530pt}
+
+% This document contains French (latin-1 encoded) script and Tibetan
+% (translitteration handled by cTibTeX)
+%
+\usepackage[french]{babel}
+%\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+\usepackage{ctib}
+
+\frenchspacing  % Follow French conventions after a period
+
+% Graphics
+%
+\usepackage{graphicx}
+\usepackage{float}
+
+% We need a table of contents with no numbering on it.
+%
+\usepackage[nottoc,notlof]{tocbibind}
+
+\makeatletter
+\def\addcontentsline@toc#1#2#3{%
+   \addtocontents{#1}{\protect\thispagestyle{empty}}%
+   \addtocontents{#1}{\protect\contentsline{#2}{#3}{\thepage}}}
+\def\addcontentsline#1#2#3{%
+  \expandafter\@ifundefined{addcontentsline@#1}%
+  {\addtocontents{#1}{\protect\contentsline{#2}{#3}{\thepage}}}
+  {\csname addcontentsline@#1\endcsname{#1}{#2}{#3}}}
+\makeatother
+
+% End notes instead of footnotes
+%
+\usepackage{endnotes}
+
+% Miscellaneous packages
+%
+\usepackage{url}
+\usepackage{multicol}
+
+% Macro-definitions
+%
+\input{tibdef}
+
+% ------------------------------------------------------------------------
+%
+\begin{document}
+
+\renewcommand{\contentsname}{\Large Table des matières}
+\renewcommand{\listfigurename}{\Large Table des figures}
+
+\pagestyle{empty}
+\input{frontcover}
+\cleardoublepage
+\
+\cleardoublepage
+\pagestyle{plain}
+\pagenumbering{arabic}
+\noindent\tableofcontents
+\include{sept_lignes}
+\cleardoublepage
+\
+\include{chant}
+\include{quatre_pensees}
+\include{merites}
+\include{purification}
+\include{guru_yoga}
+\include{transfert}
+\include{dedicace}
+\cleardoublepage
+\include{notes}
+\listoffigures
+\addcontentsline{toc}{chapter}{\protect\numberline{}Table des figures}
+\input{backcover}
+
+\end{document}
