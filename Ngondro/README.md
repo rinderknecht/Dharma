@@ -1,2 +1,2 @@
 # Ngondro
-My own version of the Tesar ngöndro
+My own version of the Tersar ngöndro
