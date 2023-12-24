@@ -1,0 +1,485 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=latex 2023.10.12)  24 DEC 2023 14:39
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**\batchmode\listfiles\input ngondro.tex
+(./ngondro.tex (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extbook.cls
+Document Class: extbook 1999/01/07 v1.4a NON-Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen142
+\l@unhyphenated=\language87
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2023/01/02 v3.5p French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language51). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language51). Reported on input line 92.
+\FB@nonchar=\count196
+Package babel Info: Making : an active character on input line 395.
+Package babel Info: Making ; an active character on input line 396.
+Package babel Info: Making ! an active character on input line 397.
+Package babel Info: Making ? an active character on input line 398.
+\FBguill@level=\count197
+\FBold@everypar=\toks16
+\FB@Mht=\dimen143
+\mc@charclass=\count198
+\mc@charfam=\count199
+\mc@charslot=\count266
+\std@mcc=\count267
+\dec@mcc=\count268
+\listindentFB=\dimen144
+\descindentFB=\dimen145
+\labelindentFB=\dimen146
+\labelwidthFB=\dimen147
+\leftmarginFB=\dimen148
+\parindentFFN=\dimen149
+\FBfnindent=\dimen150
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/t
+exlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2021/02/14 v1.3d Input encoding file
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctib/ctib.sty
+Package: ctib 2002/07/01\ 0.6\ Tibetan for TeX and LaTeX2e
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/ctib/lctenc.def
+File: lctenc.def 2002/07/01 v0.6 Mongolian Language Support Tibetan Encoding
+Now handling font encoding LCT ...
+... no UTF-8 mapping file for font encoding LCT
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctib/ctib.tex)) (/usr/share/texlive
+/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 107.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks20
+\float@box=\box51
+\@float@everytoks=\toks21
+\@floatcapt=\box52
+) (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/endnotes/endnotes.sty
+Package: endnotes 2020-01-02 endnotes package
+\c@endnote=\count270
+\endnotesep=\dimen153
+\@enotes=\write3
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count271
+\mult@box=\box53
+\multicol@leftmargin=\dimen154
+\c@unbalance=\count272
+\c@collectmore=\count273
+\doublecol@number=\count274
+\multicoltolerance=\count275
+\multicolpretolerance=\count276
+\full@width=\dimen155
+\page@free=\dimen156
+\premulticols=\dimen157
+\postmulticols=\dimen158
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen159
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count277
+\c@columnbadness=\count278
+\c@finalcolumnbadness=\count279
+\last@try=\dimen160
+\multicolovershoot=\dimen161
+\multicolundershoot=\dimen162
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count280
+) (./tibdef.tex) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-d
+vips.def
+File: l3backend-dvips.def 2023-01-16 L3 backend support: dvips
+\l__pdf_internal_box=\box98
+\g__pdf_backend_object_int=\count281
+\l__pdf_backend_content_box=\box99
+\l__pdf_backend_model_box=\box100
+\g__pdf_backend_annotation_int=\count282
+\g__pdf_backend_link_int=\count283
+\g__pdf_backend_link_sf_int=\count284
+) (./ngondro.aux (./sept_lignes.aux) (./chant.aux) (./quatre_pensees.aux) (./me
+rites.aux) (./purification.aux) (./guru_yoga.aux) (./transfert.aux) (./dedicace
+.aux) (./misc.aux) (./notes.aux))
+\openout1 = `ngondro.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for LCT/ctib/m/n on input line 59.
+LaTeX Font Info:    Trying to load font information for LCT+ctib on input line 
+59.
+(/usr/share/texlive/texmf-dist/tex/latex/ctib/lctctib.fd
+File: lctctib.fd 2002/07/01 v0.6 Tibetan Font Definitions based on Sirlin's Gly
+phs
+)
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Info: Redefining \degres on input line 59.
+LaTeX Info: Redefining \up on input line 59.
+(./frontcover.tex
+File: logo_SKC.eps Graphic file (type eps)
+<logo_SKC.eps>
+LaTeX Font Info:    Trying to load font information for LCT+cmr on input line 1
+0.
+LaTeX Font Info:    No file LCTcmr.fd. on input line 10.
+
+LaTeX Font Warning: Font shape `LCT/cmr/m/n' undefined
+(Font)              using `LCT/ctib/m/n' instead on input line 10.
+
+) [1
+
+] [2
+
+] [3] [4
+
+] (./ngondro.toc
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 6.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \thispagestyle
+                    {empty}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+Runaway argument?
+! File ended while scanning use of \contentsline.
+<inserted text> 
+                \par 
+l.71 \noindent\tableofcontents
+                              
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+\tf@toc=\write4
+\openout4 = `ngondro.toc'.
+
+[1
+
+]
+\openout2 = `sept_lignes.aux'.
+
+(./sept_lignes.tex
+File: guru_rinpoche.eps Graphic file (type eps)
+<guru_rinpoche.eps> [2
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
+5.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+\openout3 = `ngondro.ent'.
+
+Missing character: There is no - in font ctib!
+[3]
+Missing character: There is no - in font ctib!
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+26.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)) [4] [5
+
+
+
+]
+\openout2 = `chant.aux'.
+
+(./chant.tex
+File: dudjom.eps Graphic file (type eps)
+<dudjom.eps> [6
+
+] [7] [8] [9] [10] [11] [12]
+File: mandala.eps Graphic file (type eps)
+<mandala.eps>) [13]
+\openout2 = `quatre_pensees.aux'.
+
+(./quatre_pensees.tex
+File: sakyamuni.eps Graphic file (type eps)
+<sakyamuni.eps> [14
+
+
+
+]
+Missing character: There is no - in font ctib!
+) [15]
+\openout2 = `merites.aux'.
+
+(./merites.tex
+File: refuge_tree.eps Graphic file (type eps)
+<refuge_tree.eps> [16
+
+
+
+]) [17]
+\openout2 = `purification.aux'.
+
+(./purification.tex
+File: vajrasattva.eps Graphic file (type eps)
+<vajrasattva.eps> [18
+
+
+
+] [19] [20]
+File: heart.ps Graphic file (type eps)
+<heart.ps>) [21]
+\openout2 = `guru_yoga.aux'.
+
+(./guru_yoga.tex
+File: vajrayogini-white.eps Graphic file (type eps)
+<vajrayogini-white.eps> [22
+
+
+
+] [23] [24]) [25]
+\openout2 = `transfert.aux'.
+
+(./transfert.tex
+File: amitabha.eps Graphic file (type eps)
+<amitabha.eps> [26
+
+
+
+] [27]
+File: samantabhadra.eps Graphic file (type eps)
+<samantabhadra.eps>) [28]
+\openout2 = `dedicace.aux'.
+
+(./dedicace.tex) [29
+
+
+
+] [30
+
+
+
+]
+\openout2 = `misc.aux'.
+
+(./misc.tex) [31
+
+] [32
+
+
+
+]
+\openout2 = `notes.aux'.
+
+(./notes.tex (./ngondro.ent
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 2.
+[33
+
+] [34] [35] [36])) [37] [38] (./ngondro.lof
+Overfull \hbox (25.20946pt too wide) in paragraph at lines 9--11
+[]\T1/cmr/m/n/14.4 figure[]\T1/cmr/m/n/17.28 Vajrayogin	^^Y blanche (tib. N	aro
+ Khat-chöma)\T1/cmr/m/n/14.4 22 
+ []
+
+)
+\tf@lof=\write5
+\openout5 = `ngondro.lof'.
+
+(./backcover.tex [39
+
+
+
+] [40
+
+] [41] [42
+
+] [43]) [44
+
+] (./ngondro.aux (./sept_lignes.aux) (./chant.aux) (./quatre_pensees.aux) (./me
+rites.aux) (./purification.aux) (./guru_yoga.aux) (./transfert.aux) (./dedicace
+.aux) (./misc.aux) (./notes.aux))
+
+ *File List*
+ extbook.cls    1999/01/07 v1.4a NON-Standard LaTeX document class
+  size14.clo    1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+ exscale.sty    2018/09/24 v2.1i Standard LaTeX package exscale
+   babel.sty    2022/12/26 3.84 The Babel package
+  french.ldf    2023/01/02 v3.5p French support from the babel system
+babel-french.tex
+scalefnt.sty    
+  keyval.sty    2022/05/29 v1.15 key=value parser (DPC)
+inputenc.sty    2021/02/14 v1.3d Input encoding file
+  latin1.def    2021/02/14 v1.3d Input encoding file
+    ctib.sty    2002/07/01\ 0.6\ Tibetan for TeX and LaTeX2e
+ fontenc.sty    2021/04/29 v2.0v Standard LaTeX package
+  lctenc.def    2002/07/01 v0.6 Mongolian Language Support Tibetan Encoding
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2021/08/11 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+   dvips.def    2022/09/22 v3.1e Graphics/color driver for dvips
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+tocbibind.sty    2010/10/13 v1.5k extra ToC listings
+endnotes.sty    2020-01-02 endnotes package
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+multicol.sty    2021/11/30 v1.9d multicolumn formatting (FMi)
+  tibdef.tex
+l3backend-dvips.def    2023-01-16 L3 backend support: dvips
+ lctctib.fd    2002/07/01 v0.6 Tibetan Font Definitions based on Sirlin's Glyph
+s
+frontcover.tex
+logo_SKC.eps    Graphic file (type eps)
+sept_lignes.tex
+guru_rinpoche.eps    Graphic file (type eps)
+  t1cmss.fd    2022/07/10 v2.5l Standard LaTeX font definitions
+  t1cmtt.fd    2022/07/10 v2.5l Standard LaTeX font definitions
+   chant.tex
+  dudjom.eps    Graphic file (type eps)
+ mandala.eps    Graphic file (type eps)
+quatre_pensees.tex
+sakyamuni.eps    Graphic file (type eps)
+ merites.tex
+refuge_tree.eps    Graphic file (type eps)
+purification.tex
+vajrasattva.eps    Graphic file (type eps)
+   heart.ps    Graphic file (type eps)
+guru_yoga.tex
+vajrayogini-white.eps    Graphic file (type eps)
+transfert.tex
+amitabha.eps    Graphic file (type eps)
+samantabhadra.eps    Graphic file (type eps)
+dedicace.tex
+    misc.tex
+   notes.tex
+ ngondro.ent
+backcover.tex
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4110 strings out of 476092
+ 72853 string characters out of 5794106
+ 1860327 words of memory out of 5000000
+ 24353 multiletter control sequences out of 15000+600000
+ 540385 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,67p,258b,428s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on ngondro.dvi (48 pages, 69784 bytes).

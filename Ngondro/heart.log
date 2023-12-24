@@ -1,0 +1,319 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=latex 2023.10.12)  24 DEC 2023 14:39
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**\batchmode\listfiles\input heart.tex
+(./heart.tex (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extbook.cls
+Document Class: extbook 1999/01/07 v1.4a NON-Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/latex/ctib/ctib.sty
+Package: ctib 2002/07/01\ 0.6\ Tibetan for TeX and LaTeX2e
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/ctib/lctenc.def
+File: lctenc.def 2002/07/01 v0.6 Mongolian Language Support Tibetan Encoding
+Now handling font encoding LCT ...
+... no UTF-8 mapping file for font encoding LCT
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctib/ctib.tex)) (/usr/share/texlive
+/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2022/19/23 v0.72 LaTeX wrapper for `PSTricks' (RN,HV)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 227.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texl
+ive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count194
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex (/usr/shar
+e/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20
+ (hv)
+\pstFP@xs=\count195
+\pstFP@xia=\count196
+\pstFP@xib=\count197
+\pstFP@xfa=\count198
+\pstFP@xfb=\count199
+\pstFP@rega=\count266
+\pstFP@regb=\count267
+\pstFP@regs=\count268
+\pstFP@times=\count269
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share
+/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texm
+f-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen142
+\pgfutil@tempdimb=\dimen143
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box51
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/us
+r/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/sha
+re/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks21
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/t
+exlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/tex
+mf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen144
+\pgf@xa=\dimen145
+\pgf@xb=\dimen146
+\pgf@xc=\dimen147
+\pgf@y=\dimen148
+\pgf@ya=\dimen149
+\pgf@yb=\dimen150
+\pgf@yc=\dimen151
+\c@pgf@counta=\count270
+\c@pgf@countb=\count271
+\c@pgf@countc=\count272
+\c@pgf@countd=\count273
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen152
+\pgfmath@count=\count274
+\pgfmath@box=\box52
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathc
+alc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count275
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen153
+\pgffor@skip=\dimen154
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
+))
+\psLoopIndex=\count276
+`PSTricks' v3.18  <2022/11/28> (tvz,hv)
+\pst@dima=\dimen155
+\pst@dimb=\dimen156
+\pst@dimc=\dimen157
+\pst@dimd=\dimen158
+\pst@dimg=\dimen159
+\pst@dimh=\dimen160
+\pst@dimm=\dimen161
+\pst@dimn=\dimen162
+\pst@dimo=\dimen163
+\pst@dimp=\dimen164
+\pst@hbox=\box53
+\pst@ibox=\box54
+\pst@boxg=\box55
+\pst@cnta=\count277
+\pst@cntb=\count278
+\pst@cntc=\count279
+\pst@cntd=\count280
+\pst@cntg=\count281
+\pst@cnth=\count282
+\pst@cntm=\count283
+\pst@cntn=\count284
+\pst@cnto=\count285
+\pst@cntp=\count286
+\@zero=\count287
+\pst@toks=\toks27
+--- We are running latex or xelatex ---
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con) (/usr/share/t
+exlive/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
+\psunit=\dimen165
+\psxunit=\dimen166
+\psyunit=\dimen167
+\pst@C@@rType=\count288
+\pslinewidth=\dimen168
+\psk@startLW=\dimen169
+\psk@endLW=\dimen170
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen171
+\pshookwidth=\dimen172
+)
+\pst@customdefs=\toks28
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen173
+\pst@symbolStep=\dimen174
+\pst@symbolWidth=\dimen175
+\pst@symbolLinewidth=\dimen176
+\everypsbox=\toks29
+\psframesep=\dimen177
+\pslabelsep=\dimen178
+\sh@wgridXunit=\dimen179
+\sh@wgridYunit=\dimen180
+\pst@shift=\dimen181
+\ps@imagectr=\count289
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con))
+File: pstricks.tex 2022/11/28 v3.18 `PSTricks' (tvz,hv)
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 
+2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+) (/usr/share/texlive/texmf-dist/tex/latex/pst-eps/pst-eps.sty
+Package: pst-eps 2005/05/20 package wrapper for pst-eps.tex (hv)
+(/usr/share/texlive/texmf-dist/tex/generic/pst-eps/pst-eps.tex  v1.00, 2006/11/
+04
+\pst@epsout=\write3
+\pst@tempout=\write4
+)
+File: pst-eps.tex 2006/11/04 1.00 `pst-eps' (tvz)
+) (./tibdef.tex) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-d
+vips.def
+File: l3backend-dvips.def 2023-01-16 L3 backend support: dvips
+\l__pdf_internal_box=\box56
+\g__pdf_backend_object_int=\count290
+\l__pdf_backend_content_box=\box57
+\l__pdf_backend_model_box=\box58
+\g__pdf_backend_annotation_int=\count291
+\g__pdf_backend_link_int=\count292
+\g__pdf_backend_link_sf_int=\count293
+)
+No file heart.aux.
+\openout1 = `heart.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for LCT/ctib/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for LCT+ctib on input line 
+11.
+(/usr/share/texlive/texmf-dist/tex/latex/ctib/lctctib.fd
+File: lctctib.fd 2002/07/01 v0.6 Tibetan Font Definitions based on Sirlin's Gly
+phs
+)
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Trying to load font information for LCT+cmr on input line 1
+7.
+LaTeX Font Info:    No file LCTcmr.fd. on input line 17.
+
+LaTeX Font Warning: Font shape `LCT/cmr/m/n' undefined
+(Font)              using `LCT/ctib/m/n' instead on input line 17.
+
+[1
+
+]
+PSTricks: Converting TeX box to EPS.
+          With dvips, use -E option.
+(./heart.aux)
+
+ *File List*
+ extbook.cls    1999/01/07 v1.4a NON-Standard LaTeX document class
+  size14.clo    1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+ exscale.sty    2018/09/24 v2.1i Standard LaTeX package exscale
+    ctib.sty    2002/07/01\ 0.6\ Tibetan for TeX and LaTeX2e
+ fontenc.sty    2021/04/29 v2.0v Standard LaTeX package
+  lctenc.def    2002/07/01 v0.6 Mongolian Language Support Tibetan Encoding
+pstricks.sty    2022/19/23 v0.72 LaTeX wrapper for `PSTricks' (RN,HV)
+   iftex.sty    2022/02/03 v1.0f TeX engine tests
+  xcolor.sty    2022/06/12 v2.14 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+   dvips.def    2022/09/22 v3.1e Graphics/color driver for dvips
+mathcolor.ltx
+pst-xkey.tex    2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+pst-xkey.tex    2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+ xkeyval.sty    2022/06/16 v2.9 package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+pstricks.tex    2022/11/28 v3.18 `PSTricks' (tvz,hv)
+  pgffor.sty    2023-01-15 v3.1.10 (3.1.10)
+  pgfrcs.sty    2023-01-15 v3.1.10 (3.1.10)
+pgfrcs.code.tex
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+pstricks-dots.tex
+  pst-fp.tex    2020/11/20 v0.06 `PST-fp' (hv)
+ pst-eps.sty    2005/05/20 package wrapper for pst-eps.tex (hv)
+ pst-eps.tex    2006/11/04 1.00 `pst-eps' (tvz)
+  tibdef.tex
+l3backend-dvips.def    2023-01-16 L3 backend support: dvips
+ lctctib.fd    2002/07/01 v0.6 Tibetan Font Definitions based on Sirlin's Glyph
+s
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8692 strings out of 476092
+ 162956 string characters out of 5794106
+ 1851327 words of memory out of 5000000
+ 28980 multiletter control sequences out of 15000+600000
+ 520701 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,13n,72p,433b,264s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on heart.dvi (1 page, 6852 bytes).
