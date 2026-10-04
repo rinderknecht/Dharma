@@ -1,8 +1,17 @@
 %%-*-latex-*-
 
-% Düdjom Tersar Ngöndro
+% DÃ¼djom Tersar NgÃ¶ndro
 %
 \documentclass[14pt]{extbook}
+
+% This document contains French (UTF-8 encoded) script and Tibetan
+% (translitteration handled by cTibTeX)
+
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{ctib}
+
+\frenchspacing  % Follow French conventions after a period
 
 % Geometry
 %
@@ -12,16 +21,6 @@
 \setlength{\textheight}{700pt}
 \setlength{\textwidth}{530pt}
 
-% This document contains French (latin-1 encoded) script and Tibetan
-% (translitteration handled by cTibTeX)
-%
-\usepackage[french]{babel}
-%\usepackage[T1]{fontenc}
-\usepackage[latin1]{inputenc}
-\usepackage{ctib}
-
-\frenchspacing  % Follow French conventions after a period
-
 % Graphics
 %
 \usepackage{graphicx}
@@ -30,16 +29,6 @@
 % We need a table of contents with no numbering on it.
 %
 \usepackage[nottoc,notlof]{tocbibind}
-
-\makeatletter
-\def\addcontentsline@toc#1#2#3{%
-   \addtocontents{#1}{\protect\thispagestyle{empty}}%
-   \addtocontents{#1}{\protect\contentsline{#2}{#3}{\thepage}}}
-\def\addcontentsline#1#2#3{%
-  \expandafter\@ifundefined{addcontentsline@#1}%
-  {\addtocontents{#1}{\protect\contentsline{#2}{#3}{\thepage}}}
-  {\csname addcontentsline@#1\endcsname{#1}{#2}{#3}}}
-\makeatother
 
 % End notes instead of footnotes
 %
@@ -58,7 +47,7 @@
 %
 \begin{document}
 
-\renewcommand{\contentsname}{\Large Table des matières}
+\renewcommand{\contentsname}{\Large Table des matiÃ¨res}
 \renewcommand{\listfigurename}{\Large Table des figures}
 
 \pagestyle{empty}
